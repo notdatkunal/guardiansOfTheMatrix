@@ -1,1 +1,2 @@
 # guardiansOfTheMatrix
+A platform or a community for developers where you can trade knowledge and efforts with each other. You can list your projects and attach goals to them which will act as a millestones for repos to reach and checkpoints for the followers or audiences or investors. It will be a trading platform for CTO's to trade over github projects where they will get code access also if they invest 
